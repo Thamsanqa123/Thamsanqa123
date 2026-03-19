@@ -6,7 +6,7 @@
 
 I enjoy creating modern, visually appealing web interfaces that are intuitive and accessible. Turning ideas into functional products fuels my passion for continuously improving my development skills.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 **Frontend:**
 HTML | CSS | JavaScript
