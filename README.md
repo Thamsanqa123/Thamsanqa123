@@ -1,7 +1,10 @@
 # Hi, I'm Thami 👋
 
-Frontend Developer 
+💻 Software Developer
+🎓 IT Software Development Final Year Student
+🚀 Passionate about building clean, responsive, and user-friendly web applications!
 
+I enjoy creating modern, visually appealing web interfaces that are intuitive and accessible. Turning ideas into functional products fuels my passion for continuously improving my development skills.
 <!--
 **Thamsanqa123/Thamsanqa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
