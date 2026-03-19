@@ -1,9 +1,9 @@
 # Hi, I'm Thami 👋
 
-- 💻 Software Developer
-- 🎓 Final Year IT Software Development Student  
-- 🛠 Seeking opportunities to gain real-world experience  
-- 🚀 Focused on building clean, responsive, and user-friendly web applications!
+**💻 Software Developer**
+**🎓 Final Year IT Software Development Student**  
+**🛠 Seeking opportunities to gain real-world experience** 
+**🚀 Focused on building clean, responsive, and user-friendly web applications!**
 
 I enjoy creating modern, visually appealing web interfaces that are intuitive and accessible. Turning ideas into functional products fuels my passion for continuously improving my development skills.
 
