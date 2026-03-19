@@ -9,7 +9,7 @@ I enjoy creating modern, visually appealing web interfaces that are intuitive an
 ## 🛠 Tech Stack
 
 **Frontend:**
-HTML | CSS | JavaScript
+HTML5 | CSS3 | JavaScript (ES6)
 
 **Tools & Technologies:**
 Git | GitHub | VS Code
