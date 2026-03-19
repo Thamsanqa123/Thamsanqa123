@@ -19,6 +19,14 @@ Firebase
 
 **Backend(Basic Knowledge):**
 C# | .NET
+
+## 🌱 Currently Learning
+
+Advanced JavaScript
+
+New framework **React**
+
+Responsive Web Design
 <!--
 **Thamsanqa123/Thamsanqa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
