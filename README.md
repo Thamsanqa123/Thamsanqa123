@@ -41,6 +41,10 @@ C# | .NET
 - Continuously improving UI/UX design skills and JavaScript proficiency  
 - Growing as a professional software developer
 
+## 📫 Connect With Me
+
+Email: Thamsanqatshabangu2@gmail.com
+
 ## Fun fact
 
 I enjoy turning complex ideas into simple, user-friendly web experiences—focusing on usability and clarity rather than overly exaggerated UI designs 😄.
