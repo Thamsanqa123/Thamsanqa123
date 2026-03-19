@@ -1,6 +1,6 @@
 # Hi, I'm Thami 👋
 
-*💻 Software Developer
+💻 *Software Developer
 *🎓 IT Software Development Final Year Student
 *🚀 Passionate about building clean, responsive, and user-friendly web applications!
 
