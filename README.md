@@ -47,7 +47,7 @@ Email: Thamsanqatshabangu2@gmail.com
 
 ## Fun fact
 
-I enjoy turning complex ideas into simple, user-friendly web experiences—focusing on usability and clarity rather than overly exaggerated UI designs 😄.
+I enjoy turning complex ideas into simple, user-friendly web experiences—focusing on usability and clarity rather than those overly exaggerated UI designs 😄.
 <!--
 **Thamsanqa123/Thamsanqa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
