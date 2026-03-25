@@ -13,10 +13,7 @@ I enjoy creating modern, visually appealing web interfaces that are intuitive an
 HTML5 | CSS3 | JavaScript (ES6)
 
 **Tools & Technologies:**
-Git | GitHub | VS Code
-
-**No Databases:**
-Firebase
+Git | GitHub | VS Code | SQL
 
 **Backend(Basic Knowledge):**
 C# | .NET
